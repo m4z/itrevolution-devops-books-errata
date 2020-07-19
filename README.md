@@ -8,5 +8,6 @@ Hence, this.
 
 ## Books
 * ["Making Work Visible" by Dominica DeGrandis (2017)](Making_Work_Visible.md)
-* TODO: The DevOps Handbook
+* ["The DevOps Handbook" by Gene Kim, Jez Humble, John Willis, Patrick Debois (2016)](The_DevOps_Handbook.md)
 * TODO: The Unicorn Project
+* TODO: DevOps for the Modern Enterprise
