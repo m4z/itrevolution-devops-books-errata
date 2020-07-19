@@ -1,4 +1,5 @@
 "Making Work Visible" by Dominica DeGrandis (2017)
+
 https://itrevolution.com/book/making-work-visible/
 
 
